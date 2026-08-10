@@ -1,0 +1,2 @@
+# Adding .env to gitignore as it is containing secrets
+.env
