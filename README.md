@@ -17,6 +17,7 @@ These are the areas this repository is intended to grow into. Each project may u
 
 | Project | Description |
 | --- | --- |
+| [Build a language model from scratch](llm_from_scratch/) | A curiosity-driven learning guide with exercises, a roadmap, and an experiment log for building a tiny language model, fine-tuning it, and exploring RAG. |
 | [Text-to-SQL agent](text_to_sql_agent/) | A Python agent built with `smolagents` that uses a DeepSeek model and a SQL tool to answer questions about a SQLite receipts database. |
 
 ## Repository layout
